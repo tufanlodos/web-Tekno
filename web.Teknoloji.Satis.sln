@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeknoDAL", "TeknoDAL\TeknoDAL.csproj", "{900B71E5-25CC-4503-BC56-7224ED155F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeknoBLL", "TeknoBLL\TeknoBLL.csproj", "{5EFDD11D-ED4C-43A9-AE8F-EA14620B8261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeknoSatis", "TeknoSatis\TeknoSatis.csproj", "{E7DF59E2-9CAF-4DAF-88C2-F13BD55BB6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900B71E5-25CC-4503-BC56-7224ED155F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900B71E5-25CC-4503-BC56-7224ED155F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900B71E5-25CC-4503-BC56-7224ED155F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900B71E5-25CC-4503-BC56-7224ED155F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFDD11D-ED4C-43A9-AE8F-EA14620B8261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFDD11D-ED4C-43A9-AE8F-EA14620B8261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFDD11D-ED4C-43A9-AE8F-EA14620B8261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFDD11D-ED4C-43A9-AE8F-EA14620B8261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DF59E2-9CAF-4DAF-88C2-F13BD55BB6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DF59E2-9CAF-4DAF-88C2-F13BD55BB6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DF59E2-9CAF-4DAF-88C2-F13BD55BB6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DF59E2-9CAF-4DAF-88C2-F13BD55BB6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFA8134-40B9-4707-94D6-378BCE646C3F}
+	EndGlobalSection
+EndGlobal
